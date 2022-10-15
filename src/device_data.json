@@ -1,0 +1,24 @@
+{
+    "mqttBroker": {
+      "user": "",
+      "pasw": "",
+      "host": "localhost",
+      "port": 1883
+    },
+    "devices": [
+      {
+        "type": "Phone",
+        "name": "",
+        "host": "x.x.x.x",
+        "deviceId": "",
+        "mqttTopic": ""
+      },
+      {
+        "type": "Phone",
+        "name": "",
+        "host": "x.x.x.x",
+        "deviceId": "",
+        "mqttTopic": ""
+      }
+    ]
+  }
